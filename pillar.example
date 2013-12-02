@@ -1,0 +1,19 @@
+openssl:
+  certificate:
+    days: 3600
+  subject:
+    Country: US
+    State: Utah
+    City: Salt Lake City
+    Organization: OpenStack
+    Unit: Not specified
+    Email: xyz@pdq.net
+  shared:
+    ca-cert.pem: |
+      -----BEGIN CERTIFICATE-----
+      YOUR CERTIFICATE KEY
+      -----END CERTIFICATE-----
+    ca-key.pem: |
+      -----BEGIN RSA PRIVATE KEY-----
+      YOUR CERTIFICATE KEY
+      -----END RSA PRIVATE KEY-----
