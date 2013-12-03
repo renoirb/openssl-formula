@@ -1,5 +1,7 @@
 # openssl
 
+**NOT WORKING AT THE MOMENT**
+
 Manage self-signed SSL certificates and file permissions.
 
 This formula allows to provide your Certificate Authority certificate and key files
