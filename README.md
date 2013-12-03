@@ -41,7 +41,7 @@ On a server that has openssl installed, run:
 ```bash
 openssl genrsa 2048 > ca-key.pem
 openssl req -new -x509 -nodes -days 3600 -key ca-key.pem -out ca-cert.pem
-``
+```
 
 ### Install your CA certificates in your own pillar
 
