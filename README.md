@@ -1,6 +1,6 @@
 # openssl
 
-**NOT WORKING AT THE MOMENT**
+**NOT WORKING AT THE MOMENT**, based on [This Gist](https://gist.github.com/renoirb/7728455), but to make it as a recipe.
 
 Manage self-signed SSL certificates and file permissions.
 
